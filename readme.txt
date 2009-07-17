@@ -22,4 +22,4 @@ This pluging allow you to program your moderation mode, it automatically updates
 
 == Screenshots ==
 
-1. moderation-mode-planning Admin page moderation-mode-planning.png
+1. moderation-mode-planning plugin Admin page
